@@ -13,9 +13,6 @@ Prompt Dodge is an interactive quiz game where players need to answer engineerin
 - Answer the engineering prompts correctly to score points.
 - Avoid colliding with obstacles.
 
-## Screenshots
-[Include screenshots or GIFs of your game in action]
-
 ## Installation
 1. Clone the repository.
 2. Install Python and Pygame if not already installed.
